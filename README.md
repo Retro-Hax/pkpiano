@@ -16,7 +16,7 @@ This tool aims to make using it a bit easier by copying all kinds of codes to yo
   - Easily calculate note lengths - no more using a hex calculator
   - Visual controls for Channel Volume, Panning, and the SNES's distinctive Echo Buffer
   - Convert note data from OpenMPT
-  - Generate a sine wave for comparison [while tuning BRR samples](https://www.smwcentral.net/?p=section&a=details&id=10301)
+  - Generate a sine wave for comparison [while tuning BRR samples](https://www.smwcentral.net/?p=section&s=brrsamples)
 
 ## How to use
 
